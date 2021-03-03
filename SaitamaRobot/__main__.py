@@ -52,7 +52,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hello {},My Name is IGRIS
-I AM ZEROTWO BOT FROM DARLING IN THE FR.
+I AM ZEROTWO BOT FROM DARLING IN THE FRANXX.
 I will help you manage your group.
 TO KNOW MY COMMANDS CLICK /help.
 """
