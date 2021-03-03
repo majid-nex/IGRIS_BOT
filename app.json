@@ -1,7 +1,7 @@
 {
       "name": "IGRIS_BOT",
       "description": "An Anime themed Telegram group management bot.",
-      "logo": "https://telegra.ph/file/811f02b5ca1fcc3e72915.jpg", 
+      "logo": "https://telegra.ph/file/5480c2bb0aef9d8715e76.jpg", 
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "Saitama"
       ],   
-   "repository": "https://github.com/HellxGodLike/IGRIS_BOT",
+   "repository": "https://github.com/majid-nex/IGRIS_BOT",
    "addons": [
       {
          "options": {
